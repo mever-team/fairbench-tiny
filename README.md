@@ -1,5 +1,8 @@
 # fairBench-tiny
 
+[![MAI_BIAS toolkit](https://img.shields.io/badge/MAI_BIAS-⚖️_AI_fairness_tool-white)](https://mammoth-eu.github.io/mammoth-commons/index.html)
+
+
 *Fairness metrics at wire speed.*
 
 This is a high-performance C utility for evaluating basic fairness metrics from large tabular datasets.  
